@@ -4,13 +4,13 @@
 Staff Data Scientist with 11 plus years of experience executing data-driven solutions to increase efficiency, accuracy and utility of data processing. Proficient in building Natural Language Understanding and Natural Language Generation Models (NLP=NLU+NLG). I am looking for open source colloborations and working on productive remote teams.
 
 ### Technical Skills
-Languages: Python, C++,SQL
+`Languages`: Python, C++,SQL
 
-Developer Tools: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP
+`Developer Tools`: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP
 
-ML Tech : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
+`ML Tech` : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
 
-ML Tools : MLFlow, Grafana, Prometheus, Gradio, WanDB
+`ML Tools` : MLFlow, Grafana, Prometheus, Gradio, WanDB
 
 ### Experience
 
