@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Staff Data Scientist with 10 plus years of experience executing data-driven solutions to increase efficiency, accuracy and utility of data processing. Proficient in building Natural Language Understanding and Natural Language Generation Models (NLP=NLU+NLG)
+
 <!--
 **imtiazBDSgit/imtiazBDSgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
