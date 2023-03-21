@@ -1,7 +1,7 @@
 ### Hi I am `Imtiaz Khan` , Nice to meet you 👋
 
 ### Professional Summary
-Staff Data Scientist with 11 plus years of experience executing data-driven solutions to increase efficiency, accuracy and utility of data processing. Proficient in building Natural Language Understanding and Natural Language Generation Models (NLP=NLU+NLG)
+Staff Data Scientist with 11 plus years of experience executing data-driven solutions to increase efficiency, accuracy and utility of data processing. Proficient in building Natural Language Understanding and Natural Language Generation Models (NLP=NLU+NLG). I am looking for open source colloborations and working on productive remote teams.
 
 ### Technical Skills
 Languages: Python, C++,SQL
