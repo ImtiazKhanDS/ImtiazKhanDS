@@ -14,9 +14,9 @@ ML Tracks : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
 PII Information Classification
 April 2022 – Present
 Senior Staff Machine Learning
-• Enabled a pii/phi/pci detection strategy across multiple communication channels and different types of files using NER techniques.
-• Reduced the false positive rate from 15 percent to 7 percent by using advanced semi-supervised learning techniques and architectures like longformer.
-• Strategized the structured pii identification using character cnn models and integrated it with existing regex based system.
+1. Enabled a pii/phi/pci detection strategy across multiple communication channels and different types of files using NER techniques.
+2. Reduced the false positive rate from 15 percent to 7 percent by using advanced semi-supervised learning techniques and architectures like longformer.
+3. Strategized the structured pii identification using character cnn models and integrated it with existing regex based system.
 
 #### Novartis Nov 2020 – March 2022
 DocZ Document AI Assistant Product Engineering AI/NLP Expert
