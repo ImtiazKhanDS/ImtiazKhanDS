@@ -5,7 +5,9 @@ Staff Data Scientist with 10 plus years of experience executing data-driven solu
 
 ### Technical Skills
 Languages: Python, C++,SQL
-Developer Tools: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP NLP : NLU, NLG, RNN, LSTM , BERT , CNN,Transformers.
+Developer Tools: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP
+ML Tracks : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
+
 ### Experience
 
 #### PaloAlto Networks
