@@ -9,7 +9,7 @@ Developer Tools: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP NLP : NLU,
 ### Experience
 
 #### PaloAlto Networks
-**PII Information Classification**
+PII Information Classification
 April 2022 – Present
 Senior Staff Machine Learning
 • Enabled a pii/phi/pci detection strategy across multiple communication channels and different types of files using NER techniques.
@@ -17,13 +17,13 @@ Senior Staff Machine Learning
 • Strategized the structured pii identification using character cnn models and integrated it with existing regex based system.
 
 #### Novartis Nov 2020 – March 2022
-**DocZ Document AI Assistant Product Engineering AI/NLP Expert**
+DocZ Document AI Assistant Product Engineering AI/NLP Expert
 • Enhanced In-house DocZ product to condense clinical study report information with NLP Actions using techniques like Named entity recognition (NER in scispacy and microsoft text analytics for health).
 • Condensed the clinical study report document by 75 percent by using One-shot Summarization by using Universal sentence Encoder Embeddings.
 • Improved the table extraction of measurements by 95 percent from irregular rtf files to excel by using tabula module in python.
 
 #### Deloitte Dec 2018 – Nov 2020
-**Fraud Detection Machine Learning/NLP Consultant**
+Fraud Detection Machine Learning/NLP Consultant
 • Implemented machine learning to reduce fraud by 8 percent by using Gradient Boosting Trees.
 • Brought down the client metric (false positive/true positive) ratio under 4 as opposed to 6.5.
 Complaint Categorization
@@ -31,7 +31,7 @@ Complaint Categorization
 • Reduced time of complaint categorization for 1000 complaints from 20 business hours to 2 minutes.
 
 #### Accenture May 2012 – Dec 2018
-**Question Generation Wizard Software NLP Engineer**
+Question Generation Wizard Software NLP Engineer
 • Automated generation of FAQ questions given answer and context using LSTM/RNN Encoder Decoder deep learning models.
 • Able to reduce the time of FAQ creation of questions when compared with an Subject Matter Expert by 80 percent. Ticket Classification
 • Leveraged Azure Machine learning for efficient classification of incoming software/hardware related tickets into issue categories using email description by using ensemble of models like logistic regression,boosted decision trees and naive bayes algorithms.
