@@ -5,8 +5,12 @@ Staff Data Scientist with 11 plus years of experience executing data-driven solu
 
 ### Technical Skills
 Languages: Python, C++,SQL
+
 Developer Tools: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP
-ML Tracks : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
+
+ML Tech : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
+
+ML Tools : MLFlow, Grafana, Prometheus, Gradio, WanDB
 
 ### Experience
 
