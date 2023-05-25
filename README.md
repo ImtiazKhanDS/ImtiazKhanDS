@@ -8,7 +8,7 @@ Staff Data Scientist with 11 plus years of experience executing data-driven solu
 
 `Developer Tools`: Jupyter, VS Code, Git,Confluence,Jira, Azure/AWS/GCP
 
-`ML Tech` : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers.
+`ML Tech` : NLP NLU, NLG, RNN,LSTM ,BERT,GPT,CNN,Transformers,HuggingFace, Fastai
 
 `ML Tools` : MLFlow, Grafana, Prometheus, Gradio, WanDB
 
