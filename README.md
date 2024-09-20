@@ -14,6 +14,20 @@ Staff Data Scientist with 11 plus years of experience executing data-driven solu
 
 ### Experience
 
+#### Cisco April 2024 – Present
+Netacad Copilot - Engineering Technical Leader Generative AI
+Enhanced Netacad platform with Generative AI capabilities for course learners to query on course topics and get answers from course sections using Retrieval Augmented Generative Search (RAG) data using LLM models like Anthropic Claude sonnet -3.4 llama3.1, and mistral 7B models.
+
+1. Employed Prompt tuning and Prompt Engineering techniques using pydantic to retrieve information from OpenSearch Database.
+
+2. Created monitoring stack on llm responses using Apache Superset and Postgres Database.
+
+3. Supported Translation capabilites by creating a llm translation wrapper using Mixtral 45B model.
+
+4. Developed a data pipeline workflow to move course data present in gitlab repositories to OpenSearch using PGSync Connector and Intermediate(Postgres Database) mechanism.
+
+5. Added Security level access between data resources for course learners and course instructors.
+
 #### H1 Life Sciences July 2023 – April 2024
 GenosAI - Senior Staff Generative AI
 Enabled Retrieval Augmented Generative Search (RAG) for clinical Trials, Health Care Professionals(HCP's) and Institutions data using LLM models like openai gpt-4, llama2, mistral etc.
@@ -30,7 +44,7 @@ Enabled Retrieval Augmented Generative Search (RAG) for clinical Trials, Health 
 
 #### PaloAlto Networks
 `PII Information Classification`
-April 2022 – Present
+April 2022 – April 2023
 Senior Staff Machine Learning
 1. Enabled a pii/phi/pci detection strategy across multiple communication channels and different types of files using NER techniques.
 2. Reduced the false positive rate from 15 percent to 7 percent by using advanced semi-supervised learning techniques and architectures like longformer.
