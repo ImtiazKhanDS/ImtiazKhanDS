@@ -14,6 +14,20 @@ Staff Data Scientist with 11 plus years of experience executing data-driven solu
 
 ### Experience
 
+#### H1 Life Sciences July 2023 – April 2024
+GenosAI - Senior Staff Generative AI
+Enabled Retrieval Augmented Generative Search (RAG) for clinical Trials, Health Care Professionals(HCP's) and Institutions data using LLM models like openai gpt-4, llama2, mistral etc.
+
+1. Employed Prompt tuning and Prompt Engineering techniques using pydantic to generate elastic search queries.
+
+2. created embeddings for documents and stored on elastic search to enable K nearest neighbours KNN search on the embeddings.
+
+3. Developed fastapi apis and exposed them on Amazon elastic kubernetes service.
+
+4. Conducted Code reviews ,and ci-cd pipelining using circle-ci.
+
+5. Added Infra setup and Deployed the app on Amazon Kubernetes service
+
 #### PaloAlto Networks
 `PII Information Classification`
 April 2022 – Present
