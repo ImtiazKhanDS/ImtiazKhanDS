@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:3b0764,100:7c3aed&height=260&section=header&text=Imtiaz%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=48&fontAlign=30&desc=AI%20Architect%20%E2%80%94%20MCP%20Governance%20%C2%B7%20Enterprise%20AI%20Enablement%20%C2%B7%20Agentic%20Systems&descSize=16&descColor=ddd6fe&descAlignY=66&descAlign=30&animation=twinkling&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:3b0764,100:7c3aed&height=260&section=header&text=Imtiaz%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=48&fontAlign=30&desc=AI%20Architect%20%E2%80%94%20AI%2FAgentic%20Governance%20%26%20Enablement%20%C2%B7%20Thought%20Leadership%20%C2%B7%20Agentic%20Systems&descSize=16&descColor=ddd6fe&descAlignY=66&descAlign=30&animation=twinkling&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/ImtiazKhanDS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+MCP+Governance+%C2%B7+Enterprise+AI+Enablement;%F0%9F%9A%80+Building+REX+%E2%80%94+Enterprise+AI+%40+Rackspace;%F0%9F%A7%A0+LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+AWS+Bedrock;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+AI%2FAgentic+Governance+%26+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Building+REX+%E2%80%94+Agentic+AI+%40+Rackspace;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -35,13 +35,13 @@
 
 ## 🧠 &nbsp; About Me
 
-AI Architect at **Rackspace** specialising in **MCP Governance**, enterprise AI enablement, and production agentic systems. I bridge the gap between cutting-edge AI capabilities and real-world enterprise deployment — making sure AI agents are not just powerful, but safe, governed, and business-ready.
+AI Architect at **Rackspace** specialising in **AI/Agentic Governance & Enablement** and production agentic systems. I bridge the gap between cutting-edge AI capabilities and real-world enterprise deployment — making sure AI agents are not just powerful, but safe, governed, and business-ready.
 
-Currently leading **MCP Governance** initiatives across Rackspace, building **REX** (enterprise AI assistant on AWS Bedrock + LangGraph + MCP), and **FLO** (the document ingestion pipeline powering REX's retrieval layer).
+Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspace, building **REX** (enterprise AI assistant on AWS Bedrock + LangGraph + MCP), and **FLO** (the document ingestion pipeline powering REX's retrieval layer).
 
 **What I've shipped:**
 
-- 🔒 &nbsp; MCP Governance framework → safe, auditable AI agents across the enterprise
+- 🔒 &nbsp; AI/Agentic Governance framework → safe, auditable agents across the enterprise
 - 🏥 &nbsp; RAG for clinical trials @ H1 → secured **IQVIA**, onboarded **Novartis & Eli Lilly**
 - 🔐 &nbsp; PII/PHI detection @ Palo Alto Networks → **false positives: 15% → 7%**
 - 📄 &nbsp; Clinical doc review @ Novartis → **16 hrs → 4 hrs**
@@ -94,6 +94,68 @@ Currently leading **MCP Governance** initiatives across Rackspace, building **RE
 
 ---
 
+## 💡 &nbsp; Thought Leadership
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="33%" valign="top">
+
+**🏛️ AI Governance in the Enterprise**
+
+How to make agentic AI safe, auditable, and trustworthy inside organisations — policy frameworks, access control, and responsible deployment at scale.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**🔭 The Agentic AI Shift**
+
+Why autonomous multi-agent systems are redefining enterprise software — and what architects need to get right before they ship agents to production.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**🛠️ RAG vs Fine-Tuning**
+
+When to reach for retrieval, when to fine-tune, and what nobody tells you about the hidden operational costs of each choice in regulated industries.
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%" valign="top">
+
+**🔗 MCP as Enterprise Standard**
+
+Model Context Protocol as the universal interface for tool-augmented reasoning — why it matters for enterprise AI and how to govern it correctly.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**📐 LLM Observability**
+
+You can't govern what you can't see. Building the tracing, eval, and monitoring layer that turns black-box LLM calls into auditable, improvable systems.
+
+</td>
+<td align="center" width="33%" valign="top">
+
+**🚀 Enabling AI Adoption**
+
+The organisational and technical patterns that separate enterprises that successfully adopt AI from those stuck in pilot purgatory.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Sharing on LinkedIn](https://img.shields.io/badge/Sharing_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/imtiaz-khan-ai-enthusiast-54257bbb)
+&nbsp;
+[![Sharing on X](https://img.shields.io/badge/Sharing_on-X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/imtiazkhan_ds)
+
+</div>
+
+---
+
 ## 🎯 &nbsp; What I Do
 
 <div align="center">
@@ -102,18 +164,18 @@ Currently leading **MCP Governance** initiatives across Rackspace, building **RE
 
 <td width="25%" align="center" valign="top">
 
-<img src="https://img.shields.io/badge/-MCP%20Governance-7c3aed?style=for-the-badge&logo=shield&logoColor=white"/>
+<img src="https://img.shields.io/badge/-AI%2FAgentic%20Governance-7c3aed?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
-**Policies · Access Control · Audit Trails**
+**Policies · Guardrails · Audit · Compliance**
 
-Defining governance frameworks for MCP server ecosystems — making enterprise AI agents safe, auditable, and compliant at scale.
+Defining governance frameworks for agentic AI systems — making enterprise agents safe, auditable, and compliant across regulated domains at scale.
 
 <br/>
 
-![MCP](https://img.shields.io/badge/MCP-7c3aed?style=flat-square)
 ![Guardrails](https://img.shields.io/badge/Guardrails-dc2626?style=flat-square)
+![Audit](https://img.shields.io/badge/Audit+Trails-7c3aed?style=flat-square)
 ![Compliance](https://img.shields.io/badge/Compliance-059669?style=flat-square)
 
 </td>
