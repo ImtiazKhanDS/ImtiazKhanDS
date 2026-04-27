@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:3b0764,100:7c3aed&height=260&section=header&text=Imtiaz%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=48&fontAlign=30&desc=AI%20Architect%20%E2%80%94%20AI%2FAgentic%20Governance%20%26%20Enablement%20%C2%B7%20Thought%20Leadership%20%C2%B7%20Agentic%20Systems&descSize=16&descColor=ddd6fe&descAlignY=66&descAlign=30&animation=twinkling&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:3b0764,100:7c3aed&height=260&section=header&text=Imtiaz%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=48&fontAlign=30&desc=AI%20Architect%20%E2%80%94%20Agentic%20Governance%20%C2%B7%20Enterprise%20AI%20Enablement%20%C2%B7%20Thought%20Leadership&descSize=16&descColor=ddd6fe&descAlignY=66&descAlign=30&animation=twinkling&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/ImtiazKhanDS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+AI%2FAgentic+Governance+%26+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Enabling+Agentic+AI+%40+Enterprise+Scale;%E2%9A%A1+14%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+Agentic+Governance+%C2%B7+Enterprise+AI+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Enabling+Agentic+AI+%40+Enterprise+Scale;%E2%9A%A1+14%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
