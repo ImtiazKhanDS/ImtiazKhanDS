@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ImtiazKhanDS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+AI%2FAgentic+Governance+%26+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Building+REX+%E2%80%94+Agentic+AI+%40+Rackspace;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+AI%2FAgentic+Governance+%26+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Enabling+Agentic+AI+%40+Enterprise+Scale;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -33,7 +33,7 @@
 
 AI Architect at **Rackspace** specialising in **AI/Agentic Governance & Enablement** and production agentic systems. I bridge the gap between cutting-edge AI capabilities and real-world enterprise deployment — making sure AI agents are not just powerful, but safe, governed, and business-ready.
 
-Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspace, building **REX** (enterprise AI assistant on AWS Bedrock + LangGraph + MCP), and **FLO** (the document ingestion pipeline powering REX's retrieval layer).
+Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspace and building **FLO** (document ingestion and embedding pipeline on AWS OpenSearch).
 
 **What I've shipped:**
 
