@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:3b0764,100:7c3aed&height=260&section=header&text=Imtiaz%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=48&fontAlign=30&desc=AI%20Architect%20%E2%80%94%20Agentic%20Systems%20%C2%B7%20LLM%20Infrastructure%20%C2%B7%20Enterprise%20RAG&descSize=16&descColor=ddd6fe&descAlignY=66&descAlign=30&animation=twinkling&stroke=a78bfa&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f0c29,50:3b0764,100:7c3aed&height=260&section=header&text=Imtiaz%20Khan&fontSize=75&fontColor=ffffff&fontAlignY=48&fontAlign=30&desc=AI%20Architect%20%E2%80%94%20MCP%20Governance%20%C2%B7%20Enterprise%20AI%20Enablement%20%C2%B7%20Agentic%20Systems&descSize=16&descColor=ddd6fe&descAlignY=66&descAlign=30&animation=twinkling&stroke=a78bfa&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
 <a href="https://github.com/ImtiazKhanDS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%9A%80+Building+REX+%E2%80%94+Enterprise+AI+%40+Rackspace;%F0%9F%A7%A0+LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+AWS+Bedrock;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+MCP+Governance+%C2%B7+Enterprise+AI+Enablement;%F0%9F%9A%80+Building+REX+%E2%80%94+Enterprise+AI+%40+Rackspace;%F0%9F%A7%A0+LangGraph+%C2%B7+MCP+%C2%B7+RAG+%C2%B7+AWS+Bedrock;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -35,17 +35,18 @@
 
 ## 🧠 &nbsp; About Me
 
-AI Architect at **Rackspace** designing and shipping production-grade intelligent systems. I focus on the hard problems — agent reliability at scale, RAG retrieval accuracy, LLM observability, and the infrastructure fabric that holds it all together.
+AI Architect at **Rackspace** specialising in **MCP Governance**, enterprise AI enablement, and production agentic systems. I bridge the gap between cutting-edge AI capabilities and real-world enterprise deployment — making sure AI agents are not just powerful, but safe, governed, and business-ready.
 
-Currently building **REX** (Rackspace Expert), an enterprise AI assistant on AWS Bedrock + LangGraph + MCP, and **FLO**, the document ingestion pipeline powering REX's retrieval layer.
+Currently leading **MCP Governance** initiatives across Rackspace, building **REX** (enterprise AI assistant on AWS Bedrock + LangGraph + MCP), and **FLO** (the document ingestion pipeline powering REX's retrieval layer).
 
 **What I've shipped:**
 
-- 🏥 &nbsp; RAG for clinical trials @ H1 Life Sciences → secured **IQVIA** deal, onboarded **Novartis & Eli Lilly**
+- 🔒 &nbsp; MCP Governance framework → safe, auditable AI agents across the enterprise
+- 🏥 &nbsp; RAG for clinical trials @ H1 → secured **IQVIA**, onboarded **Novartis & Eli Lilly**
 - 🔐 &nbsp; PII/PHI detection @ Palo Alto Networks → **false positives: 15% → 7%**
 - 📄 &nbsp; Clinical doc review @ Novartis → **16 hrs → 4 hrs**
-- 🎓 &nbsp; GenAI on Netacad @ Cisco → **5 language** multilingual query engine
-- 📊 &nbsp; Fraud ML @ Deloitte → **8% fraud reduction**, complaint triage **20 hrs → 2 min**
+- 🎓 &nbsp; GenAI on Netacad @ Cisco → **5-language** multilingual query engine
+- 📊 &nbsp; Fraud ML @ Deloitte → **8% reduction**, complaint triage **20 hrs → 2 min**
 
 </td>
 <td width="42%" valign="top">
@@ -93,45 +94,87 @@ Currently building **REX** (Rackspace Expert), an enterprise AI assistant on AWS
 
 ---
 
-## 🏗️ &nbsp; How I Architect AI Systems
+## 🎯 &nbsp; What I Do
 
-```mermaid
-flowchart LR
-    U([👤 Enterprise User]) --> AG
+<div align="center">
+<table>
+<tr>
 
-    subgraph AGENT ["🤖  Agent Layer  —  LangGraph + MCP"]
-        AG[Planner] --> T1[RAG Tool]
-        AG --> T2[LLM Tool]
-        AG --> T3[MCP Tool]
-    end
+<td width="25%" align="center" valign="top">
 
-    subgraph RETRIEVAL ["🔍  Retrieval Layer"]
-        T1 --> OS[(OpenSearch)]
-        T1 --> VDB[(Milvus / Pinecone)]
-        FLO[FLO Pipeline] -->|embed + index| OS
-    end
+<img src="https://img.shields.io/badge/-MCP%20Governance-7c3aed?style=for-the-badge&logo=shield&logoColor=white"/>
 
-    subgraph LLM ["🧠  LLM Layer  —  AWS Bedrock"]
-        T2 --> CL[Claude]
-        T2 --> GP[GPT-4]
-        T2 --> LL[Llama 3.1]
-    end
+<br/><br/>
 
-    subgraph OBS ["📡  Observability"]
-        AG -.->|trace| AP[Arise Phoenix]
-        AG -.->|eval| LS[LangSmith]
-    end
+**Policies · Access Control · Audit Trails**
 
-    T1 --> AG
-    T2 --> AG
-    T3 --> AG
-    AG --> U
+Defining governance frameworks for MCP server ecosystems — making enterprise AI agents safe, auditable, and compliant at scale.
 
-    style AGENT fill:#1e1b4b,stroke:#7c3aed,color:#ddd6fe
-    style RETRIEVAL fill:#0c1a2e,stroke:#0ea5e9,color:#bae6fd
-    style LLM fill:#1a0a2e,stroke:#a855f7,color:#e9d5ff
-    style OBS fill:#0a1f1a,stroke:#10b981,color:#a7f3d0
-```
+<br/>
+
+![MCP](https://img.shields.io/badge/MCP-7c3aed?style=flat-square)
+![Guardrails](https://img.shields.io/badge/Guardrails-dc2626?style=flat-square)
+![Compliance](https://img.shields.io/badge/Compliance-059669?style=flat-square)
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-Agentic%20AI-0ea5e9?style=for-the-badge&logo=robot&logoColor=white"/>
+
+<br/><br/>
+
+**LangGraph · Multi-Agent · Tool Use**
+
+Architecting multi-agent systems that plan, reason, and execute complex enterprise workflows reliably — from design to production.
+
+<br/>
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![AWS Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-Enterprise%20RAG-a855f7?style=for-the-badge&logo=database&logoColor=white"/>
+
+<br/><br/>
+
+**Ingestion · Embedding · Hybrid Search**
+
+End-to-end retrieval pipelines optimised for accuracy in regulated domains — healthcare, cybersecurity, financial services.
+
+<br/>
+
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square)
+![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+<img src="https://img.shields.io/badge/-AI%20Enablement-10b981?style=for-the-badge&logo=rocket&logoColor=white"/>
+
+<br/><br/>
+
+**Strategy · Integration · Adoption**
+
+Translating AI capabilities into enterprise outcomes — integrating intelligent systems into business workflows at Rackspace scale.
+
+<br/>
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square)
+![EKS](https://img.shields.io/badge/AWS_EKS-FF9900?style=flat-square)
+![LLM Ops](https://img.shields.io/badge/LLMOps-6E44FF?style=flat-square)
+
+</td>
+
+</tr>
+</table>
+</div>
 
 ---
 
