@@ -55,36 +55,9 @@ Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspac
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS_GenAI_Innovation_Center-Partner_Hackathon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center">
-
-**🥇 MCP Track**
-<br/>
-<sub>Model Context Protocol</sub>
-<br/>
-<img src="https://img.shields.io/badge/Winner-MCP_Architecture-7c3aed?style=flat-square"/>
-
-</td>
-<td align="center">
-
-**🥇 Agentic AI Track**
-<br/>
-<sub>Multi-Agent Orchestration</sub>
-<br/>
-<img src="https://img.shields.io/badge/Winner-Agentic_Systems-7c3aed?style=flat-square"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-![Rackspace](https://img.shields.io/badge/Rackspace_×_AWS-Recognized_for_Innovation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/🥇_MCP_Track-AWS_GenAI_Innovation_Hackathon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/🥇_Agentic_AI_Track-AWS_GenAI_Innovation_Hackathon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
 
