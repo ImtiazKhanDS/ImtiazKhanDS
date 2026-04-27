@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://github.com/ImtiazKhanDS">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+AI%2FAgentic+Governance+%26+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Enabling+Agentic+AI+%40+Enterprise+Scale;%E2%9A%A1+12%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=%F0%9F%8F%86+2%C3%97+AWS+GenAI+Innovation+Hackathon+Winner;%F0%9F%94%92+AI%2FAgentic+Governance+%26+Enablement;%F0%9F%92%A1+Thought+Leader+%C2%B7+Enterprise+AI+Strategist;%F0%9F%9A%80+Enabling+Agentic+AI+%40+Enterprise+Scale;%E2%9A%A1+14%2B+Years+Shipping+AI+at+Scale" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
@@ -15,7 +15,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/⚡_Experience-12%2B_Years-7c3aed?style=flat-square&labelColor=1e1b4b)
+![](https://img.shields.io/badge/⚡_Experience-14%2B_Years-7c3aed?style=flat-square&labelColor=1e1b4b)
 &nbsp;
 ![](https://img.shields.io/badge/🏆_AWS_Hackathons-2×_Winner-f59e0b?style=flat-square&labelColor=1e1b4b)
 &nbsp;
@@ -38,6 +38,8 @@ Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspac
 **What I've shipped:**
 
 - 🔒 &nbsp; AI/Agentic Governance framework → safe, auditable agents across the enterprise
+- 🤖 &nbsp; **REX** (Rackspace Expert) — enterprise AI assistant on AWS Bedrock + LangGraph + MCP
+- 🔄 &nbsp; **FLO** (FAIR LLM Operations) — document ingestion & embedding pipeline on AWS OpenSearch
 - 🏥 &nbsp; RAG for clinical trials @ H1 → secured **IQVIA**, onboarded **Novartis & Eli Lilly**
 - 🔐 &nbsp; PII/PHI detection @ Palo Alto Networks → **false positives: 15% → 7%**
 - 📄 &nbsp; Clinical doc review @ Novartis → **16 hrs → 4 hrs**
@@ -339,16 +341,6 @@ Translating AI capabilities into enterprise outcomes — integrating intelligent
 </div>
 
 ---
-
-## 🐍 &nbsp; Contribution Graph
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImtiazKhanDS/ImtiazKhanDS/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImtiazKhanDS/ImtiazKhanDS/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ImtiazKhanDS/ImtiazKhanDS/output/github-snake-dark.svg" width="95%"/>
-</picture>
-</div>
 
 ---
 
