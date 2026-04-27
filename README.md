@@ -29,10 +29,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ## 🧠 &nbsp; About Me
 
 AI Architect at **Rackspace** specialising in **AI/Agentic Governance & Enablement** and production agentic systems. I bridge the gap between cutting-edge AI capabilities and real-world enterprise deployment — making sure AI agents are not just powerful, but safe, governed, and business-ready.
@@ -48,8 +44,7 @@ Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspac
 - 🎓 &nbsp; GenAI on Netacad @ Cisco → **5-language** multilingual query engine
 - 📊 &nbsp; Fraud ML @ Deloitte → **8% reduction**, complaint triage **20 hrs → 2 min**
 
-</td>
-<td width="42%" valign="top">
+---
 
 ## 🏆 &nbsp; Awards
 
@@ -60,10 +55,6 @@ Currently leading **AI/Agentic Governance & Enablement** initiatives at Rackspac
 ![](https://img.shields.io/badge/🥇_Agentic_AI_Track-AWS_GenAI_Innovation_Hackathon-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 </div>
-
-</td>
-</tr>
-</table>
 
 ---
 
