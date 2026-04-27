@@ -358,4 +358,16 @@ Translating AI capabilities into enterprise outcomes — integrating intelligent
 
 </div>
 
+## 🐍 &nbsp; Contribution Graph
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ImtiazKhanDS/ImtiazKhanDS/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ImtiazKhanDS/ImtiazKhanDS/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ImtiazKhanDS/ImtiazKhanDS/output/github-snake-dark.svg" width="95%"/>
+</picture>
+</div>
+
+---
+
 <img src="https://capsule-render.vercel.app/api?type=slice&color=0:7c3aed,50:3b0764,100:0f0c29&height=180&section=footer&reversal=true&fontColor=ffffff" width="100%"/>
